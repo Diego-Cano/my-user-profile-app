@@ -1,2 +1,3 @@
 # my-user-profile-app
  Web App
+Using useImmer to manage complex state in React has been a significantly better experience compared to using useState. useImmer simplifies handling nested state updates, allowing direct modifications in an immutable way. This eliminates the need for cumbersome spread operators or deep cloning techniques often required with useState when dealing with nested objects or arrays. Thus, useImmer provides a more intuitive and less error-prone approach to state management for complex structures, improving code readability and maintainability. It made the code easier to understand while keeping its efficiency.
